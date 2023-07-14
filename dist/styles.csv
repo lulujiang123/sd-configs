@@ -2,6 +2,7 @@
 None,,
 MultiDiffusion,"masterpiece, best quality, highres, extremely detailed, clear background,",
 负tag,,"(worst quality, low quality:1.4),(jpeg artifacts:1.4),(depth of field, bokeh, blurry, film grain, chromatic aberration:1),trembling,motion lines,motion blur,emphasis lines,text,title,logo,signature,"
+负tag带e,,"verybadimagenegative_v1.3,(worst quality, low quality:1.4),(jpeg artifacts:1.4),(depth of field, bokeh, blurry, film grain, chromatic aberration:1),trembling,motion lines,motion blur,emphasis lines,text,title,logo,signature,"
 负tag+,,"(worst quality, low quality:1.4),(jpeg artifacts:1.4),(depth of field, bokeh, blurry, film grain, chromatic aberration:1),bad anatomy,extra limbs,extra fingers,fewer digits,greyscale,monochrome,trembling,motion lines,motion blur,emphasis lines,text,title,logo,signature,"
 女孩,"(masterpiece,best quality, official art,:1.2),1girl,",
 婚纱全套,"bride, bridal veil, bridal gauntlets, wedding dress, bridal garter, bridal legwear, white thighhighs, stiletto heels,",
